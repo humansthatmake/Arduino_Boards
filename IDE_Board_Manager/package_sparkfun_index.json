@@ -772,7 +772,7 @@
               "name": "SparkFun SAMD21 Mini Breakout"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "SparkFun SAMD21 Dev Breakout buffer:1024"
             },
             {
               "name": "SparkFun 9DoF Razor IMU M0"
